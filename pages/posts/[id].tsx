@@ -26,7 +26,7 @@ export default function Post({
   postData
 }: {
   postData: {
-    title: stirng
+    title: string
     date: string
     contentHtml: string
   }
