@@ -30,11 +30,8 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I live in Fukuoka, JP.</p>
-        <p>
-          (This is a sample website - you&apos;ll be building a site linke this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <p>Mobile app developer in Fukuoka, Japan.🇯🇵</p>
+        <p>On weekdays, working on the Android app that changes the way people meet.🤖 On weekends, just brewing coffee☕️ and building personal apps.👷‍♂️</p>
       </section>
       <section className={`${utilStyles.headingMd}  ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
