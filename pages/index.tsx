@@ -30,8 +30,8 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Mobile app developer in Fukuoka, Japan.🇯🇵</p>
-        <p>On weekdays, working on the Android app that changes the way people meet.🤖 On weekends, just brewing coffee☕️ and building personal apps.👷‍♂️</p>
+        <p>Android app developer from Japan🇯🇵, living in the Netherlands🇳🇱</p>
+        <p><a href="blog.shoheikawnao.com">Personal blog posts in Japanese</a></p>
       </section>
       <section className={`${utilStyles.headingMd}  ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
